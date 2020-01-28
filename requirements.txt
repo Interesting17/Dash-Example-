@@ -1,2 +1,1 @@
-$ pip freeze > requirements.txt
 setuptools==1.0
